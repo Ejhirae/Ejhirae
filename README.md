@@ -1,5 +1,15 @@
 # 💫 About Me:
-Flutter
+- 🔭 I’m currently working on **A Ticketing Web Application**
+
+- 🌱 I’m currently learning **Flutter/Dart**
+
+- 👯 I’m looking to collaborate on **projects**
+
+- 🤝 I’m looking for help with **picking the best database for a mobile application**
+
+- 💬 Ask me about **Mobile Application Development with Flutter**
+
+- 📫 How to reach me **victor.osahon24@gmail.com**
 
 
 ---
