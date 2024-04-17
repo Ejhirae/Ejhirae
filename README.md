@@ -1,5 +1,5 @@
 # 💫 About Me:
-- 🔭 I’m currently working on **A Ticketing Web Application**
+- 🔭 I’m currently working on **Flutter Projects**
 
 - 🌱 I’m currently learning **Flutter/Dart**
 
